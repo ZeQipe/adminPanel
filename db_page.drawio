@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36 Edg/129.0.0.0" version="24.7.16">
   <diagram name="Страница — 1" id="I9b2rhlldtggpzdVo2Wk">
-    <mxGraphModel dx="5127" dy="-561" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="3970" dy="-1154" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,22 +30,22 @@
         <mxCell id="IYKv4-9v9WQwq1Tj8tWP-241" value="" style="group;fontSize=11;" parent="1" vertex="1" connectable="0">
           <mxGeometry x="50" y="2682" width="598" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="IYKv4-9v9WQwq1Tj8tWP-242" value="LOGS" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=10;fontStyle=1;fillColor=#872A13;whiteSpace=wrap;fontFamily=Lucida Console;" parent="IYKv4-9v9WQwq1Tj8tWP-241" vertex="1">
+        <mxCell id="IYKv4-9v9WQwq1Tj8tWP-242" value="LOGS" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#000000;mainText=;buttonStyle=round;fontSize=10;fontStyle=1;fillColor=#DAE8FC;whiteSpace=wrap;fontFamily=Lucida Console;" parent="IYKv4-9v9WQwq1Tj8tWP-241" vertex="1">
           <mxGeometry width="87.51219512195122" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="IYKv4-9v9WQwq1Tj8tWP-243" value="STATISTICS" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=10;fontStyle=1;fillColor=#872A13;whiteSpace=wrap;fontFamily=Lucida Console;" parent="IYKv4-9v9WQwq1Tj8tWP-241" vertex="1">
+        <mxCell id="IYKv4-9v9WQwq1Tj8tWP-243" value="STATISTICS" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#000000;mainText=;buttonStyle=round;fontSize=10;fontStyle=1;fillColor=#DAE8FC;whiteSpace=wrap;fontFamily=Lucida Console;" parent="IYKv4-9v9WQwq1Tj8tWP-241" vertex="1">
           <mxGeometry x="102.09756097560975" width="87.51219512195122" height="23" as="geometry" />
         </mxCell>
         <mxCell id="IYKv4-9v9WQwq1Tj8tWP-244" value="DATABASE" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=10;fontStyle=1;fillColor=#007FFF;whiteSpace=wrap;fontFamily=Lucida Console;" parent="IYKv4-9v9WQwq1Tj8tWP-241" vertex="1">
           <mxGeometry x="204.1951219512195" width="87.51219512195122" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="IYKv4-9v9WQwq1Tj8tWP-245" value="USERS" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=10;fontStyle=1;fillColor=#872A13;whiteSpace=wrap;fontFamily=Lucida Console;" parent="IYKv4-9v9WQwq1Tj8tWP-241" vertex="1">
+        <mxCell id="IYKv4-9v9WQwq1Tj8tWP-245" value="USERS" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#000000;mainText=;buttonStyle=round;fontSize=10;fontStyle=1;fillColor=#DAE8FC;whiteSpace=wrap;fontFamily=Lucida Console;" parent="IYKv4-9v9WQwq1Tj8tWP-241" vertex="1">
           <mxGeometry x="314.07154471544715" width="87.51219512195122" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="IYKv4-9v9WQwq1Tj8tWP-246" value="POSTS" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=10;fontStyle=1;fillColor=#872A13;whiteSpace=wrap;fontFamily=Lucida Console;" parent="IYKv4-9v9WQwq1Tj8tWP-241" vertex="1">
+        <mxCell id="IYKv4-9v9WQwq1Tj8tWP-246" value="POSTS" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#000000;mainText=;buttonStyle=round;fontSize=10;fontStyle=1;fillColor=#DAE8FC;whiteSpace=wrap;fontFamily=Lucida Console;" parent="IYKv4-9v9WQwq1Tj8tWP-241" vertex="1">
           <mxGeometry x="416.1691056910569" width="87.51219512195122" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="IYKv4-9v9WQwq1Tj8tWP-247" value="STATUS" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=10;fontStyle=1;fillColor=#872A13;whiteSpace=wrap;fontFamily=Lucida Console;" parent="IYKv4-9v9WQwq1Tj8tWP-241" vertex="1">
+        <mxCell id="IYKv4-9v9WQwq1Tj8tWP-247" value="STATUS" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#000000;mainText=;buttonStyle=round;fontSize=10;fontStyle=1;fillColor=#DAE8FC;whiteSpace=wrap;fontFamily=Lucida Console;" parent="IYKv4-9v9WQwq1Tj8tWP-241" vertex="1">
           <mxGeometry x="518.2666666666667" width="87.51219512195122" height="23" as="geometry" />
         </mxCell>
         <mxCell id="IYKv4-9v9WQwq1Tj8tWP-398" value="https://www.hostname/admin/key/panel" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" parent="1" vertex="1">
@@ -1604,7 +1604,7 @@
         <mxCell id="Md42R0rfyFx2uFYkMSRy-486" value="Сюда должны выводиться колонки, доступные для вывода. Список доступных колонок будет предоставлен сервером. Это меню позволяет выбрать те колонки, которые необходимо отобразить в таблице.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-510" y="2623" width="210" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="Md42R0rfyFx2uFYkMSRy-487" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="Md42R0rfyFx2uFYkMSRy-488" edge="1" source="Md42R0rfyFx2uFYkMSRy-292">
+        <mxCell id="Md42R0rfyFx2uFYkMSRy-487" value="" style="edgeStyle=elbowEdgeStyle;elbow=horizontal;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="Md42R0rfyFx2uFYkMSRy-292" target="Md42R0rfyFx2uFYkMSRy-488" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-239" y="2990" as="sourcePoint" />
             <mxPoint x="-350" y="2900" as="targetPoint" />
@@ -1636,57 +1636,57 @@
         <mxCell id="Md42R0rfyFx2uFYkMSRy-493" value="Поле для фильтрации таблицы. Кнопка &quot;Search&quot; должна применять фильтры. Параметры статичны, но со временем, по мере необходимости будут расширяться.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Поле &quot;Target...&quot; принимает строку, которую ищет совпадения в базе данных. Column это доступные колонки, по которым будет производится поиск, но если колонка не указана, то ищет совпадение по всем столбцам.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Галочка Full Match для поля &quot;Target...&quot;. Сервер при включенной галочке вернёт только те объекты, в столбце которых найдено 100% совпадение. Если галочка снята, то сервер вернёт объекты, в которых хотя-бы частично присутствует данная строка.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;First Match возвращает первое найденное совпадение с сервера. Если выбран этот вариант выбора, то вернувшийся результат сразу открывается в окне вывода информации, а так-же параметр Limit должен становиться не доступным для выбора и становится полупрозрачным.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Поле Limit принимает число. Это ограничение по количеству возвращаемых значений. Если галочка снята - поле для ввода должно быть не доступно.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Data&quot; - поля от и до, для ввода даты. Справа кнопка, которая должна выводить календарь. Условие - левая колонка должна быть меньше, чем правая. Логика ввода от и до должна соблюдаться.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;spacing=8;" parent="1" vertex="1">
           <mxGeometry x="-1010" y="2762.5" width="510" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B9Pl1igciIRUfl06TqIE-7" target="B9Pl1igciIRUfl06TqIE-2">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-1" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B9Pl1igciIRUfl06TqIE-7" target="B9Pl1igciIRUfl06TqIE-2" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="10" y="3268" as="sourcePoint" />
             <mxPoint x="70" y="3380" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-2" value="Кнопки для взаимодействия с базой данных. Часть из них должна быть не доступна, пока пользователь не выбран.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Create&quot; доступен всегда, но при нажатии должно всплывать окно для заполнения данных. Поля, необходимые для заполнения - может отослать сервер. Функционал создания записи доступен только при наличии токена.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Edit&quot; и &quot;Delete&quot; - не доступны, пока пользователь не выбрал хотя бы один объект из базы данных.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;После того, как пользователь нажал на ячейку, и окно информации заполнилось данными - кнопка &quot;Edit&quot; становится доступной. После нажатия на неё - поля в окне информации становятся доступными для редактирования, а сама кнопка должна переименоваться в &quot;Save&quot;. При нажатии на кнопку &quot;Save&quot;, данные о пользователе сохраняются, данные уже нельзя редактировать, а кнопка меняется обратно. При этом кнопка &quot;Edit&quot; не доступна, если выбрано более 1 объекта. Функционал доступен и без токена, но в зависимости от учетной записи - в изменении данных может быть отказано.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Кнопка &quot;Delete&quot; доступна если выбран хотя бы 1 объект или более. Доступно массовое удаление объектов. Пользователи, которые выбраны - удаляются навсегда и безвозвратно. Функционал удаления доступен только при наличии токена.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-2" value="Кнопки для взаимодействия с базой данных. Часть из них должна быть не доступна, пока пользователь не выбран.&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Create&quot; доступен всегда, но при нажатии должно всплывать окно для заполнения данных. Поля, необходимые для заполнения - может отослать сервер. Функционал создания записи доступен только при наличии токена.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&quot;Edit&quot; и &quot;Delete&quot; - не доступны, пока пользователь не выбрал хотя бы один объект из базы данных.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;После того, как пользователь нажал на ячейку, и окно информации заполнилось данными - кнопка &quot;Edit&quot; становится доступной. После нажатия на неё - поля в окне информации становятся доступными для редактирования, а сама кнопка должна переименоваться в &quot;Save&quot;. При нажатии на кнопку &quot;Save&quot;, данные о пользователе сохраняются, данные уже нельзя редактировать, а кнопка меняется обратно. При этом кнопка &quot;Edit&quot; не доступна, если выбрано более 1 объекта. Функционал доступен и без токена, но в зависимости от учетной записи - в изменении данных может быть отказано.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Кнопка &quot;Delete&quot; доступна если выбран хотя бы 1 объект или более. Доступно массовое удаление объектов. Пользователи, которые выбраны - удаляются навсегда и безвозвратно. Функционал удаления доступен только при наличии токена.&amp;nbsp;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-400" y="3290" width="480" height="340" as="geometry" />
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-5" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=none;fillColor=#6C767D;fontColor=#ffffff;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-5" value="" style="swimlane;shape=mxgraph.bootstrap.anchor;strokeColor=none;fillColor=#6C767D;fontColor=#ffffff;fontStyle=0;childLayout=stackLayout;horizontal=0;startSize=0;horizontalStack=1;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-228" y="3200" width="180" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-6" value="Create" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.leftButton;rSize=5;fillColor=inherit;fontColor=inherit;" vertex="1" parent="B9Pl1igciIRUfl06TqIE-5">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-6" value="Create" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.leftButton;rSize=5;fillColor=inherit;fontColor=inherit;" parent="B9Pl1igciIRUfl06TqIE-5" vertex="1">
           <mxGeometry width="60" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-7" value="Edit" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;" vertex="1" parent="B9Pl1igciIRUfl06TqIE-5">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-7" value="Edit" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;rSize=5;fillColor=inherit;fontColor=inherit;" parent="B9Pl1igciIRUfl06TqIE-5" vertex="1">
           <mxGeometry x="60" width="60" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-8" value="Delete" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.rightButton;rSize=5;fillColor=inherit;fontColor=inherit;" vertex="1" parent="B9Pl1igciIRUfl06TqIE-5">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-8" value="Delete" style="text;strokeColor=inherit;align=center;verticalAlign=middle;spacingLeft=10;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.rightButton;rSize=5;fillColor=inherit;fontColor=inherit;" parent="B9Pl1igciIRUfl06TqIE-5" vertex="1">
           <mxGeometry x="120" width="60" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-17" value="Change status" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingRight=20;" vertex="1" parent="1">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-17" value="Change status" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#ffffff;whiteSpace=wrap;align=left;verticalAlign=middle;fontStyle=0;fontSize=14;spacingRight=20;" parent="1" vertex="1">
           <mxGeometry x="140" y="3200" width="117" height="32.5" as="geometry" />
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-18" value="" style="shape=triangle;direction=south;fillColor=#ffffff;strokeColor=none;perimeter=none;" vertex="1" parent="B9Pl1igciIRUfl06TqIE-17">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-18" value="" style="shape=triangle;direction=south;fillColor=#ffffff;strokeColor=none;perimeter=none;" parent="B9Pl1igciIRUfl06TqIE-17" vertex="1">
           <mxGeometry x="1" y="0.5" width="10" height="5" relative="1" as="geometry">
             <mxPoint x="-17" y="-2.5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-19" value="Clear" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;" vertex="1" parent="1">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-19" value="Clear" style="html=1;shadow=0;dashed=0;shape=mxgraph.bootstrap.rrect;rSize=5;strokeColor=none;strokeWidth=1;fillColor=#6C767D;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=0;fontSize=12;spacing=5;" parent="1" vertex="1">
           <mxGeometry y="3200" width="80" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.506;exitY=1.031;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B9Pl1igciIRUfl06TqIE-19" target="B9Pl1igciIRUfl06TqIE-21">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-20" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.506;exitY=1.031;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B9Pl1igciIRUfl06TqIE-19" target="B9Pl1igciIRUfl06TqIE-21" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="80" y="3380" as="sourcePoint" />
             <mxPoint x="10" y="3330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-21" value="Кнопка для очищения данных пользователя с окна вывода. Сбрасывает данные, если нужно откатить изменения." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-21" value="Кнопка для очищения данных пользователя с окна вывода. Сбрасывает данные, если нужно откатить изменения." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="140" y="3290" width="158" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.471;exitY=0.922;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="B9Pl1igciIRUfl06TqIE-17" target="B9Pl1igciIRUfl06TqIE-23">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-22" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;exitX=0.471;exitY=0.922;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="B9Pl1igciIRUfl06TqIE-17" target="B9Pl1igciIRUfl06TqIE-23" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="260" y="3370" as="sourcePoint" />
             <mxPoint x="260" y="3360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-23" value="Выпадающий список для изменения статуса пользователя. Поле так-же доступно и без токена, однако в изменении статуса может быть отказано. Варианты статусов должны быть динамически расширяемы по мере необходимости." style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-23" value="Выпадающий список для изменения статуса пользователя. Поле так-же доступно и без токена, однако в изменении статуса может быть отказано. Варианты статусов должны быть динамически расширяемы по мере необходимости." style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="320" y="3270" width="270" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-26" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-26" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-235" y="2800" width="490" height="143" as="geometry" />
         </mxCell>
         <mxCell id="tqcLOM60gqUsvPTXYX9Y-379" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;Columns:&lt;/font&gt;" style="rounded=1;fillColor=none;strokeColor=none;html=1;fontColor=#596780;align=left;fontSize=12;spacingLeft=10;fontSize=11;sketch=1;hachureGap=4;pointerEvents=0;fontFamily=Lucida Console;" parent="B9Pl1igciIRUfl06TqIE-26" vertex="1">
@@ -1775,7 +1775,7 @@
             <mxPoint x="138" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B9Pl1igciIRUfl06TqIE-27" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="B9Pl1igciIRUfl06TqIE-27" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-230" y="2980" width="476" height="197" as="geometry" />
         </mxCell>
         <mxCell id="Md42R0rfyFx2uFYkMSRy-14" value="Last Name:" style="fillColor=none;strokeColor=none;html=1;fontSize=11;fontStyle=0;align=left;fontColor=#596780;fontStyle=1;fontSize=11" parent="B9Pl1igciIRUfl06TqIE-27" vertex="1">
